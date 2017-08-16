@@ -1,13 +1,13 @@
-# Title
+# Titlu
 
-## Table of Content
+## Cuprins
 
 1. [Ingrediente](#ingrediente)
 2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
 3. [Instructiuni](#instructiuni)
 4. [Note](#note)
 
-<a id="ingredients"></a>
+<a id="ingrediente"></a>
 
 ## Ingrediente
 
@@ -19,13 +19,13 @@
 
 ## Vase, ustensile si aparate
 
-Text for cookware.
+Text pentru vase, ustensile si aparate
 
 <a id="instructiuni"></a>
 
 ## Instructiuni
 
-Text pentru instructions.
+Text pentru instructiuni.
 
 <a id="note"></a>
 

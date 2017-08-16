@@ -36,11 +36,12 @@
 - 3 linguri ulei
 - 2 litri apa
 
-### Optional pentru servit
+### Optional
 
 - smantana
 - patrunjel
 - ardei iute - ciusca
+- zeama de lamaie
 
 <a id="vase-ustensile-aparate"></a>
 
@@ -72,8 +73,15 @@ Inghesuim ardeii in cratita, adaugand apa si uleiul.
 
 Lasam la foc mic sa fiarba 1h:20min.
 
+Se serveste neaparat cu smanata. Cei ce prefera cu iaurt ... sa le fie rusine :).
+De asemenea se poate servi cu cateva frunze de patrujel si un ardei iute.
+
 <a id="note"></a>
 
 ## Note
 
-Text pentru note.
+Slanina afumata da un gust deosebit ardeilor umpluti, recomandam sa nu o sariti.
+
+Daca doriti un gust putin acrisor, puteti adauga zeama de lamaie cu 5 minute inainte de stigerea focului.
+
+Am scris aceasta reteta dupa ce tocmai am terminat de gatit. Si deja am gura apa asteptand sa se raceasca.

@@ -71,7 +71,7 @@ Punem capacele din rosii la fiecare ardei.
 
 Inghesuim ardeii in cratita, adaugand apa si uleiul.
 
-Lasam la foc mic sa fiarba 1h:20min.
+Lasam la foc mic sa fiarba aproximativ 1h:20min.
 
 Se serveste neaparat cu smanata. Cei ce prefera cu iaurt ... sa le fie rusine :).
 De asemenea se poate servi cu cateva frunze de patrujel si un ardei iute.

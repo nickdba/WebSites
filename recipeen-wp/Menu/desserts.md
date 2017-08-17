@@ -1,4 +1,4 @@
-# Deserts
+# Desserts
 
 ## Full recipes
 

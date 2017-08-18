@@ -65,8 +65,8 @@ Taiem slanina cat mai marunt. Clatim usor carnea tocata.
 
 Morcovul, ceapa si telina le bagam in robot la cutite.
 
-Adaugam toate ingredientele din umplutura si condimentele in bolul de sticla.
-Amestecam bine cu mana. Apoi umplem ardeii fara un deget cu umplura.
+Adaugam toate condimentele si ingredientele pentru umplutura in bolul de sticla.
+Amestecam bine cu mana. Apoi indesam umplura in ardei, lasand putin loc pana la sus.
 Punem capacele din rosii la fiecare ardei.
 
 Inghesuim ardeii in cratita, adaugand apa si uleiul.
@@ -75,6 +75,8 @@ Lasam la foc mic sa fiarba aproximativ 1h:20min.
 
 Se serveste neaparat cu smanata. Cei ce prefera cu iaurt ... sa le fie rusine :).
 De asemenea se poate servi cu cateva frunze de patrujel si un ardei iute.
+
+Pofta buna!
 
 <a id="note"></a>
 
@@ -85,3 +87,5 @@ Slanina afumata da un gust deosebit ardeilor umpluti, recomandam sa nu o sariti.
 Daca doriti un gust putin acrisor, puteti adauga zeama de lamaie cu 5 minute inainte de stigerea focului.
 
 Am scris aceasta reteta dupa ce tocmai am terminat de gatit. Si deja am gura apa asteptand sa se raceasca.
+
+Daca v-a ramas prea multa umplutura, puteti face din rest burrito mexicane.

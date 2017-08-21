@@ -20,11 +20,11 @@ RMAN> show all;
 and we are manly interested in `RETENTION POLICY` and `ARCHIVELOG DELETION POLICY`
 
 ```sql
-CONFIGURE RETENTION POLICY TO RECOVERY WINDOW OF 30 DAYS;
+CONFIGURE RETENTION POLICY TO RECOVERY WINDOW OF 90 DAYS;
 CONFIGURE ARCHIVELOG DELETION POLICY TO APPLIED ON ALL STANDBY BACKED UP 2 TIMES TO DISK;
 ```
 
-Although the retention window is 30 days, checking all backups on the disk shows lots of backups
+Although the retention window is 90 days, checking all backups on the disk shows lots of backups
 beyond that date.
 
 ```sql
@@ -55,7 +55,7 @@ Crosschecked 256 objects
 If you want to modify the retention window of the delete on the fly:
 
 ```sql
-RMAN> delete obsolete recovery window of 60 days;
+RMAN> delete obsolete recovery window of 120 days;
 
 Type: YES
 ```

@@ -17,7 +17,7 @@ We first check what is the `RMAN` configuration for this database
 RMAN> show all;
 ```
 
-and we are manly interested in `RETENTION POLICY` and `ARCHIVELOG DELETION POLICY`
+and we are mainly interested in `RETENTION POLICY` and `ARCHIVELOG DELETION POLICY`
 
 ```sql
 CONFIGURE RETENTION POLICY TO RECOVERY WINDOW OF 90 DAYS;

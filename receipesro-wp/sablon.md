@@ -11,9 +11,13 @@
 
 ## Ingrediente
 
+### Condimente si plante aromatice
+
 - 1 lingurita de
 - 1 lingurita de
 - 1 lingurita de
+
+### Restul de ingrediente
 
 <a id="vase-ustensile-aparate"></a>
 

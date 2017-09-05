@@ -11,7 +11,7 @@
 
 ## Ingrediente
 
-### Condimente
+### Condimente si plante aromatice
 
 - 1 ligura sare
 - 1 lingurita rasa oregano

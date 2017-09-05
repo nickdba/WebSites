@@ -1,13 +1,13 @@
 # Tocanita de mazare cu ciuperci
 
+![tocanita mazare ciuperci](https://farm5.staticflickr.com/4436/36223106293_3fced34e08.jpg)
+
 ## Cuprins
 
 1. [Ingrediente](#ingrediente)
 2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
 3. [Instructiuni](#instructiuni)
 4. [Note](#note)
-
-![tocanita mazare ciuperci](https://farm5.staticflickr.com/4436/36223106293_3fced34e08.jpg)
 
 <a id="ingrediente"></a>
 

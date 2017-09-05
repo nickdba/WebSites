@@ -58,5 +58,7 @@ Se serveste cu muraturi sau salata pe baza de otet.
 ## Note
 
 1 conserva = 125g greutate uscata
+
 Am sarit peste prajitul de ceapa pentru ca indulceste prea mult tocana si cade mai greu la stomac.
+
 Mararul poate fi adaugat si la sfarsit inainte de stigerea focului.

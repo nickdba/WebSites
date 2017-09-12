@@ -30,7 +30,7 @@
 - 250g mezel de porc
 - 50g bulion
 - 2 liguri ulei de floarea soarelui
-- apa cat sa acopere tot
+- apa cat sa acopere tot cam un deget
 
 <a id="vase-ustensile-aparate"></a>
 
@@ -44,11 +44,11 @@
 
 ## Instructiuni
 
-Punem la fiert toate legumele impreuna cu sarea.
+Punem la fiert toate legumele impreuna.
 
-Incercam cu o furculita cartofii. Cand sunt aproape gata adaugam restul de ingrediente.
+Dupa 20 de minute de fiert, incercam cu o furculita cartofii. Daca intra furculita relativ usor, adaugam restul de ingrediente, in afara de marar.
 
-Lasam la fiert inca 10 minute, apoi oprim focul.
+Lasam la fiert inca 15 minute, adugam mararul taiat marunt si apoi oprim focul.
 
 Se serveste cu muraturi sau salata pe baza de otet.
 
@@ -57,8 +57,8 @@ Se serveste cu muraturi sau salata pe baza de otet.
 
 ## Note
 
-1 conserva = 125g greutate uscata
-
 Am sarit peste prajitul de ceapa pentru ca indulceste prea mult tocana si cade mai greu la stomac.
 
-Mararul poate fi adaugat si la sfarsit inainte de stigerea focului.
+Daca mazarea e pre-fiarta in conserva, ea se adauga cu 15 minute inainte opririi focului, nu la inceput.
+
+1 conserva = 125g greutate uscata

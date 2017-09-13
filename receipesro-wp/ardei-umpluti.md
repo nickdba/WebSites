@@ -1,5 +1,7 @@
 # Ardei Umpluti
 
+![Ardei Umplut Servit](https://farm5.staticflickr.com/4365/37020253212_c6153b4896.jpg)
+
 ## Cuprins
 
 1. [Ingrediente](#ingrediente)
@@ -11,7 +13,7 @@
 
 ## Ingrediente
 
-### Condimente
+### Condimente si plante aromatice
 
 - 1 ligura sare
 - 1 lingurita rasa oregano

@@ -116,16 +116,16 @@ SQL> startup nomount pfile='<pfile.ora>'
 SQL> @<alter_database.sql>
 ```
 
-Check `v$datafiles`, `v$tempfile`, `v$logfile` and `v$controlfile`
+Check `v$datafile`, `v$tempfile`, `v$logfile` and `v$controlfile`
 to ensure all files are correctly in the new location. Correct the
 individual `alter database rename...` commands as appropriate to fix
 any problems.
 
 Check startup parameters:
 
-* show parameter recovery\_file\_dest
-* show parameter log\_archive\_dest\_1
-* show parameter name\_convert
+* show parameter recovery_file_dest
+* show parameter log_archive_dest_1
+* show parameter name_convert
 
 ### Post move actions
 

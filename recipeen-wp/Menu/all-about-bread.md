@@ -4,12 +4,12 @@
 
 * Bavarian rolls
 * Burger Buns
-* <a href="../../pita-bread/">Pita Bread</a>
+* [Pita Bread](../../pita-bread/)
 * Romanian covrig
-* <a href="../../white-bread-loaf/">White bread loaf</a>
+* [White bread loaf](../../white-bread-loaf/)
 
 ## Tips
 
-* <a href="../../flour-and-yeast/">Flour and yeast</a></li>
+* [Flour and yeast](../../flour-and-yeast/)
 * General tips
 * Proofing dough

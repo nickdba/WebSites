@@ -5,6 +5,7 @@ I have added few flashback commands for easy future reference.
 <!--more-->
 
 Table of Contents
+
 1. [Checks](#checks)
 2. [Set up](#set-up)
 3. [Flashback commands](#flashback-commands)
@@ -12,7 +13,8 @@ Table of Contents
 
 <a id="checks"></a>
 
-## Checks 
+## Checks
+
 Check if the `archivelog` mode is enabled, `flashback_on` and the log path is set. The possible values for `log_mode` are 'archivelog' and 'noarchivelog'. The possible values for `flashback_on` are 'Yes' and 'No'. 
 
 ```sql

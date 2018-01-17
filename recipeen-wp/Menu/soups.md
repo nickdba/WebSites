@@ -1,7 +1,8 @@
 # Soups
 
-* <a href="../../belgian-sea-food-soup/">Belgian seafood soup</a>
+* [Belgian seafood soup](../../belgian-sea-food-soup/)
 * Belly soup
-* <a href="../../chicken-soup-romanian-version/">Chicken soup (ciorba de pui)</a>
+* [Chicken soup (ciorba de pui)](../../chicken-soup-romanian-version/)
 * Meatball soup (ciorba de perișoare)
+* [Red lentil soup](../../red-lentil-soup/)
 * Vegetable soup

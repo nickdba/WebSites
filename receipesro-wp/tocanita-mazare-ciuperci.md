@@ -44,7 +44,7 @@
 
 ## Instructiuni
 
-Punem la fiert toate legumele impreuna.
+Punem la fiert toate legumele impreuna curatate si taiate cubuletze.
 
 Dupa 20 de minute de fiert, incercam cu o furculita cartofii. Daca intra furculita relativ usor, adaugam restul de ingrediente, in afara de marar.
 

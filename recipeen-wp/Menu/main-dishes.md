@@ -1,3 +1,3 @@
 # Main Dishes
 
-* <a href="../../pizza/">Pizza</a>
+* [Pizza](../../pizza/)

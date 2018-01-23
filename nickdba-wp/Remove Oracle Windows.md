@@ -21,7 +21,17 @@ In particular `oci.dll`, stop the following services, if they exist:
 Delete oracle installation directories.
 Start again the services.
 
+## Delete oracle services
+
+Gett a list of all oracle services and delete them.
+
+```bash
+sc delete Oracleagent12c1Agent
+```
+
 ## Delete registries
+
+  regedit
 
 - HKEY_CURRENT_USER\SOFTWARE\ORACLE
 - HKEY_LOCAL_MACHINE\SOFTWARE\ORACLE

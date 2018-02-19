@@ -25,7 +25,13 @@ alter tablespace tbs_name add datafile 'oradata_path:\tbs_name01.dbf' size 100m 
 Resizing a datafile
 
 ```sql
-alter database datafile 'oradata_path:\tbs_name01.dbf' resize 100m;
+alter database datafile 'oradata_path:\tbs_name01.dbf' resize 500m;
+```
+
+Resizing datafile maxsize
+
+```sql
+alter database datafile 'oradata_path:\tbs_name01.dbf' autoextend on maxsize 8G;
 ```
 
 ## Troubleshooting

@@ -2,7 +2,6 @@
 
 Easy reference tablespace commands have been added below. Temp tablespace and a troubleshooting sections is also included.
 
-
 ## Temp Tablespace
 
 Adding a file to the temp tablespace.

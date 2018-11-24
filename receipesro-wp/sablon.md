@@ -1,5 +1,7 @@
 # Titlu
 
+O scurta descriere.
+
 ## Cuprins
 
 1. [Ingrediente](#ingrediente)

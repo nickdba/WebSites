@@ -1,6 +1,6 @@
 # Meniu
 
-* [Totul Despre Paine](./panificatie/)
+* [Panificatie](./panificatie/)
 * [Aperitive](./aperitive)
 * [Supe si Ciorbe](./supe-si-ciorbe/)
 * [Felul principal](./felul-principal/)

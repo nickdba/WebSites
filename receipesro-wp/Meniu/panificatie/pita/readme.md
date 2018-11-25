@@ -1,6 +1,6 @@
 # Pita
 
-Acesta retata cuprinde ingrediente pentru 10 pite (aproximativ 800g)
+Acesta reteta cuprinde ingrediente pentru 10 pite (aproximativ 800g)
 
 ## Cuprins
 
@@ -40,19 +40,22 @@ Puneti apa intr-un bol impreuna cu drojdia si zaharul.
 Dati 15 minute ragaz drojdiei petru a se activa.
 Adaugati faina si uleiul.
 Porniti mixerul pentru 5 minute incepand cu setarea minima si apoi trepatat crescand. 
-Adaugati sare si continuati procesul de formare al aluatului pentru inca 5 minute.
-It should be smooth but not sticking.
+Adaugati sare si continuati procesul pentru inca 5 minute.
+Alutatul rezultat trebuie sa fie moale dar nu lipicios.
 
-Cover dough and let it rest, in a warm place, until it doubles in size.
-Split dough into 10 pieces of 80 g each.
-With a rolling pin flatten each piece to 5 mm thickness.
-Cover and let the dogh pieces grow for 15 to 20 min.
-Fry them 2-3 min on each side on medium heat. Use as less oil as possible.
-Tips
+Acoperiti bolul si lasati la crescut intr-un loc umed si cald, pana cand aluatul isi dubleaza volumul.
+Impartiti aluatul in 10 bucati, cate 80g fiecare.
+Folosind un facalet modelati fiecare bucata in forma de pita rotunda de 5mm grosime.
 
+Acoperiti totul si mai lasati la crescut 20 de minute.
+Umeziti cu apa fiecare pita si puneti-o in tigaie cu partea umeda in jos.
+Prajiti 2-3 minute pe fiecare parte la foc mediu.
+Folositi ulei doar cat sa fie unsa tigaia.
+
+Pofta buna!
 <a id="note"></a>
 
 ## Note
-
-aparat de facut paine
-A thick frying pan can also be used if you don’t have a carbon steal skillet
+Daca aveti aparat de facut paine, il puteti folosi in loc de mixer pentru a face aluatul.
+E important ca tigaia sa aiba fundul gros pt a coace pita uniform.
+Pentru mai multe sfaturi legate de paine vizitati sectiunea de [panificatie](../)

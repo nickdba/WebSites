@@ -60,6 +60,6 @@ Coaceti cozonacii 30-35 de minute in cuptor cu ventilator, la 180 de grade, tava
 
 ## Notite
 
-Proportia de ingrediente este de 400 ml lichid la 600 g faina.
-Grasimile si galbenusurile se considera jumate din aportul de lichid.
+Proportia de ingrediente este de 400 ml lichid la 600 g faina.  
+Grasimile si galbenusurile se considera jumate din aportul de lichid.  
 Becul cuptorului degaja caldura ce ajuta la cresterea aluatului.

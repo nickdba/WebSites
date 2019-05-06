@@ -4,6 +4,7 @@
 * [Aperitive](./aperitive)
 * [Supe si Ciorbe](./supe-si-ciorbe/)
 * [Felul principal](./felul-principal/)
-* [Sosuri](./sosuri/)
 * [Dulciuri](./dulciuri/)
+* [Sosuri](./sosuri/)
+* [Muraturi](./muraturi)
 * [Ustensile](./ustensile/)

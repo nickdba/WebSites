@@ -1,6 +1,6 @@
 # Ardei Umpluti
 
-![Ardei Umpluti](https://github.com/nickdba/WebSites/tree/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umpluti.jpg)
+![Ardei Umpluti](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umpluti.jpg)
 
 ## Cuprins
 
@@ -58,7 +58,7 @@
 
 <a id="instructiuni"></a>
 
-![Ardei Umplut Servit](https://github.com/nickdba/WebSites/tree/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umplut-servit.jpg)
+![Ardei Umplut Servit](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umplut-servit.jpg)
 
 ## Instructiuni
 

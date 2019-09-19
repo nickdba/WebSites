@@ -7,7 +7,7 @@ O scurta descriere.
 1. [Ingrediente](#ingrediente)
 2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
 3. [Instructiuni](#instructiuni)
-4. [Note](#note)
+4. [Notite](#notite)
 
 <a id="ingrediente"></a>
 
@@ -33,8 +33,8 @@ Text pentru vase, ustensile si aparate
 
 Text pentru instructiuni.
 
-<a id="note"></a>
+<a id="notite"></a>
 
-## Note
+## Notite
 
 Text pentru note.

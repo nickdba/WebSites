@@ -1,13 +1,13 @@
 # Ardei Umpluti
 
-![Ardei Umplut Servit](https://farm5.staticflickr.com/4365/37020253212_c6153b4896.jpg)
+![Ardei Umpluti](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umpluti.jpg)
 
 ## Cuprins
 
 1. [Ingrediente](#ingrediente)
 2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
 3. [Instructiuni](#instructiuni)
-4. [Note](#note)
+4. [Notite](#notite)
 
 <a id="ingrediente"></a>
 
@@ -58,6 +58,8 @@
 
 <a id="instructiuni"></a>
 
+![Ardei Umplut Servit](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umplut-servit.jpg)
+
 ## Instructiuni
 
 Spalam, curatam legumele si scoatem cotoarele din ardei.
@@ -80,9 +82,9 @@ De asemenea se poate servi cu cateva frunze de patrujel si un ardei iute.
 
 Pofta buna!
 
-<a id="note"></a>
+<a id="notite"></a>
 
-## Note
+## Notite
 
 Slanina afumata da un gust deosebit ardeilor umpluti, recomandam sa nu o sariti.
 

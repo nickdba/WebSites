@@ -1,13 +1,13 @@
 # Tocanita de mazare cu ciuperci
 
-![tocanita mazare ciuperci](https://farm5.staticflickr.com/4436/36223106293_3fced34e08.jpg)
+![tocanita mazare ciuperci](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/tocanita-mazare-ciuperci/tocanita-mazare-ciuperci.jpg)
 
 ## Cuprins
 
 1. [Ingrediente](#ingrediente)
 2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
 3. [Instructiuni](#instructiuni)
-4. [Note](#note)
+4. [Notite](#notite)
 
 <a id="ingrediente"></a>
 
@@ -18,7 +18,7 @@
 - sare
 - piper
 - boia iute
-- o legatura marar 
+- o legatura marar
 
 ### Ingrediente de baza
 
@@ -53,9 +53,9 @@ Lasam la fiert inca 15 minute, adugam mararul taiat marunt si apoi oprim focul.
 Se serveste cu muraturi sau salata pe baza de otet.
 
 
-<a id="note"></a>
+<a id="notite"></a>
 
-## Note
+## Notite
 
 Am sarit peste prajitul de ceapa pentru ca indulceste prea mult tocana si cade mai greu la stomac.
 

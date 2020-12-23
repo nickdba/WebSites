@@ -15,24 +15,26 @@ Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura mu
 
 ## Ingrediente
 
-### Umplutura
-
-- 4 albusuri
-- nuci
-- rahat
-- zahar
-- cacao
-
 ### Aluat
 
-- 1 lingurita de sare 
-- 2 linguri esenta de vanilie
-- 2 pliculete de drojdie instant (14g)
+- 1 lingurita de sare
 - 4 galbenusuri medii
 - 100 g zahar
 - 150 g unt/untura
 - 300 ml lapte
 - 600 g faina de paine
+- 2 linguri extract vanilie/ 2 lingurite esenta vanilie
+- 2 linguri rom / 2 lingurite esenta rom
+- 2 pliculete de drojdie instant (14g)
+
+### Umplutura
+
+- 4 albusuri
+- 50 g zahar
+- 1 lingura cacao
+- 1 strop esenta rom
+- nuci
+- zahar
 
 <a id="vase-ustensile-aparate"></a>
 
@@ -46,9 +48,10 @@ Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura mu
 
 ## Instructiuni
 
-Adaugati toate ingredientele aluatului in bol.  
-a. Folosind aparatul de paine, setati programul pentru aluat si crescut, de 1 ora si jumatate. (Ex. Marca ambiano programul 17).  
-b. Alternativ framantati 15 min, folosind mixerul cu bol, incepand cu viteza cea mai mica si crescand treptat. Apoi acoperiti si lasati in loc caldut la crescut pentru 1 ora si 15 minute.
+Adaugati toate ingredientele aluatului intr-un bol, in ordinea listata.
+
+- Folosind aparatul de paine, setati programul pentru aluat si crescut, de 1 ora si jumatate. (Ex. Marca ambiano programul 17).  
+- Alternativ framantati 15 min, folosind mixerul cu bol, incepand cu viteza cea mai mica si crescand treptat. Apoi acoperiti si lasati in loc caldut la crescut pentru 1 ora si 15 minute.
 
 Cat aluatul creste, preparati umplutura. Bateti galbenusurile cu zaharul si cacaoa pana se face spuma tare. Taiati rahatul si nucile in bucatele mici.
 
@@ -63,3 +66,4 @@ Coaceti cozonacii 30-35 de minute in cuptor cu ventilator, la 180 de grade, tava
 Proportia de ingrediente este de 400 ml lichid la 600 g faina.  
 Grasimile si galbenusurile se considera jumate din aportul de lichid.  
 Becul cuptorului degaja caldura ce ajuta la cresterea aluatului.
+Daca drojdia e mai veche, o poti activa mai intai in putina apa cu zahar, pentru siguranta.

@@ -2,7 +2,9 @@
 
 Folosind aceasta reteta puteti face 1.2 kg aluat de cozonac.
 Acesta poate fi modelat intr-un cozonac mare. Daca aveti forme foarte mici puteti face 2.  
-Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura munca considerabil.
+Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura munca considerabil.  
+
+![Cozonac](./cozonac.jpg)
 
 ## Cuprins
 
@@ -69,5 +71,5 @@ Dizolvati putina miere in apa in proportie de 2:1. (2 parti de miere si una de a
 
 Proportia de ingrediente este de 400 ml lichid la 600 g faina.  
 Grasimile si galbenusurile se considera jumate din aportul de lichid.  
-Becul cuptorului degaja caldura ce ajuta la cresterea aluatului.
+Becul cuptorului degaja caldura ce ajuta la cresterea aluatului.  
 Daca drojdia e mai veche, o poti activa mai intai in putina apa cu zahar, pentru siguranta.

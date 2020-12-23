@@ -21,7 +21,7 @@ Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura mu
 
 - 1 lingurita de sare
 - 4 galbenusuri medii
-- 100 g zahar
+- 150 g zahar
 - 150 g unt/untura
 - 300 ml lapte
 - 600 g faina de paine

@@ -59,7 +59,7 @@ Cat aluatul creste, preparati umplutura. Taiati rahatul si nucile in bucatele mi
 Cand sunteti gata de modelat, bateti galbenusurile cu zaharul si cacaoa pana se face spuma tare.
 
 Modelati cozonacul folosind facaletul si ulei. Faceti 2 rulouri cu umplutura la mijoc, gen clatite, puneti-le in forma impletite.  
-Lasati in cuptor la creascut cu un ibric de apa fierbinte si cu becul cuptorului aprins, pentru 30-35 de minute.
+Lasati in cuptor la creascut cu un ibric de apa fierbinte si cu becul cuptorului aprins, pentru 40-45 de minute.
 Coaceti cozonacul 40-45 de minute in cuptor cu ventilator, la 180 de grade, tava pusa la mijloc sau putin mai jos.
 
 Puteti testa daca este copt cu o scobitoare. Odata scos din cuptor el poate fi lasat 5 minute pe o parte pentru a nu se lasa.

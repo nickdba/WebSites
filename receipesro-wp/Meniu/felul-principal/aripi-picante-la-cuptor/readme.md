@@ -55,7 +55,7 @@ Fierbeti cam 15 minute (20 de minute in total pe foc).
 Cum incepe apa sa fiarba, puneti o strecuratoare de ceai cu citronela in cratita pentru 3-4 minute.
 
 In bol adaugati faina si restul de condimente.
-Amestecati intr-una in timp ce adaugati oul, uleiul, si apa.  
+Amestecati incontinuu in timp ce adaugati oul, uleiul, si apa.  
 Apa trebuie adaugata pana cand aluatul devine asemanatoar cu maioneza ca vascozitate.
 
 Dupa ce au fiert, scurgeti aripile bine si lasati-le sa se raceasca putin.  

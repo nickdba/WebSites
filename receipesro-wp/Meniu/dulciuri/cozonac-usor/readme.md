@@ -36,7 +36,9 @@ Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura mu
 - 1 lingura cacao
 - 1 strop esenta rom
 - nuci
+- rahat
 - zahar
+
 
 <a id="vase-ustensile-aparate"></a>
 
